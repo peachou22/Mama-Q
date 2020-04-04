@@ -1,0 +1,154 @@
+/* font-family: 'Pacifico', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif; */
+
+
+
+body {
+margin: 0;
+background-color: #ecfbfc;
+}
+
+h1 {
+  margin: 0 40px auto;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: #235952;
+  font-family: 'Pacifico', cursive;
+  font-size: 70px;
+}
+
+h2 {
+  margin: 0 auto;
+  margin-bottom: 0;
+  padding-top: 40px;
+  padding-bottom: 0;
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+p {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+}
+button {
+ display: inline;
+ background-color: #ffc8bd;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffc8bd;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #235952;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #ecfbfc;
+}
+
+.home-button {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+  height: 40px;
+}
+
+.all-recipes-button {
+  position: relative;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+.top-tips-button {
+  position: relative;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+.about-button {
+  position: relative;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+.shop-button {
+  position: relative;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+.search-container {
+  position: relative;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+.middle-container {
+  margin-top: 0;
+  padding-left: 40px;
+  background-color: #ffebd9;
+}
+
+.top-description {
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.you {
+  font-family: 'Pacifico', cursive;
+  font-size: 22px;
+}
+
+.home-column-1 {
+  display: inline-block;
+  width: 400px;
+  margin-right: 0;
+}
+
+.home-column-2 {
+  display: inline-block;
+  width: 400px;
+  margin-right: 0;
+  padding-left: 10px;
+}
+
+.home-column-3 {
+  display: inline-block;
+  width: 400px;
+  margin-right: 0;
+  padding-left: 10px;
+}
+
+.dish-name {
+  margin: 10px 0 50px 0;
+  text-align: center;
+  max-width: 400px;
+}
+
+.home-latest-img {
+  width: 400px;
+  height: auto;
+  border-color: #ffc8bd;
+  border-style: solid;
+}
